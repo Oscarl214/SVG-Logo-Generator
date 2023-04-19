@@ -1,0 +1,10 @@
+body{
+    background-color: #BFC1FFFF;
+}
+
+
+.logoid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
