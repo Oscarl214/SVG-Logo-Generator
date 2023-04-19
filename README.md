@@ -24,6 +24,10 @@ Via the terminal, run node  file_name to execute application. Once so, you will 
 
 No Collaborators.
 
+## WalkThrough Video
+
+https://drive.google.com/file/d/1_JPFLXtE04jNG3DYdr-BysC5oCuazm9P/view?usp=sharing
+
 ## Contact
 If there are any additional questions regarding the application, you can reach me through the following methods:
 - GitHub Profile: oscarl214 (https://github.com/oscarl214)
